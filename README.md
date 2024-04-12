@@ -9,7 +9,7 @@
 ## Introduction
 The data is  for year 2021 orders from the 3 year dataset (2019-2021) sourced online, which belongs to Superstores. I have opted for this data to display  my skill in data cleaning, analysis and visualization.
 
-**_Disclaimer_** : The datasets used are fictional and do not depict any real company, institution, or country. They are solely for demonstration purposes to showcase the capabilities of Power BI.
+**_Disclaimer_** : The datasets used are fictional and do not depict any real company, institution, or country. They are solely for demonstration purposes to showcase my capabilities of Power BI.
 
 ## Power BI Concept Application
 - Data Analysis Expression (DAX): Calculated columns (Average Sales, Order count) and Custom columns
