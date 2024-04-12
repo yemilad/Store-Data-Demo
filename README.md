@@ -45,18 +45,21 @@ The data was cleaned using the Power BI Power Query editor
 - Orders falling in the technology category account for a sales chunk of 37.06%
 
 ## Conclusion & Recommendation
-  From the foregoing, it can be seen that there are other regions whose sales metrics need to improve. Hence, it is recommended that management should focus on;
-1. Focus on Increasing Average Order Value: Implement strategies such as bundling products, upselling, or offering discounts for bulk purchases to increase the average sales per order.
+From the foregoing, it can be seen that there are other regions whose sales metrics need to improve. Hence, it is recommended that management should focus on;
+1. **Focus on Increasing Average Order Value:** Implement strategies such as bundling products, upselling, or offering discounts for bulk purchases to increase the average sales per 
+   order.
 
-2. Explore Market Expansion: While the Western region is performing well, consider exploring opportunities in other regions to diversify and expand sales channels.
+2. **Explore Market Expansion:** While the Western region is performing well, consider exploring opportunities in other regions to diversify and expand sales channels.
 
-3. Enhance Technology Product Offerings: Given the significant contribution of technology category orders, continue to innovate and improve offerings in this segment to maintain or increase market share.
+3. **Enhance Technology Product Offerings:** Given the significant contribution of technology category orders, continue to innovate and improve offerings in this segment to maintain or 
+   increase market share.
 
-4. Cost Management: Despite a good profit margin, continue to monitor and optimize costs to ensure profitability remains sustainable.
+4. **Cost Management:** Despite a good profit margin, continue to monitor and optimize costs to ensure profitability remains sustainable.
 
-5. Customer Segmentation and Targeting: Analyze customer data to identify high-value segments and tailor marketing strategies to effectively target and attract these customers.
+5. **Customer Segmentation and Targeting:** Analyze customer data to identify high-value segments and tailor marketing strategies to effectively target and attract these customers.
 
-6. Continuous Performance Monitoring: Regularly track sales, profit margins, and other key metrics to identify trends, challenges, and opportunities for improvement throughout the year.
+6. **Continuous Performance Monitoring:** Regularly track sales, profit margins, and other key metrics to identify trends, challenges, and opportunities for improvement throughout the 
+   year.
   
   
 
