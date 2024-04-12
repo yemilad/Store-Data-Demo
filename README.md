@@ -44,7 +44,7 @@ The data was cleaned using the Power BI Power Query editor
 - The western region in North America has the highest number of sales-$250.1K
 - Orders falling in the technology category account for a sales chunk of 37.06%
 
-    ## Conclusion & Recommendation
+## Conclusion & Recommendation
   From the foregoing, it can be seen that there are other regions whose sales metrics need to improve. Hence, it is recommended that management should focus on;
 1. Focus on Increasing Average Order Value: Implement strategies such as bundling products, upselling, or offering discounts for bulk purchases to increase the average sales per order.
 
