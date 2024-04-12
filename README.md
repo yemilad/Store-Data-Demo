@@ -12,9 +12,8 @@ The data is  for year 2021 orders from the 3 year dataset (2019-2021) sourced on
 **_Disclaimer_** : The datasets used are fictional and do not depict any real company, institution, or country. They are solely for demonstration purposes to showcase the capabilities of Power BI.
 
 ## Power BI Concept Application
+- Data Analysis Expression (DAX): Calculated columns (Average Sales, Order count) and Custom columns
 
-1. DAX: Calculated columns (Average Sales, Order count), Custom columns
-2. Data Modelling
 
 ## Problem Statement
 1.  What is the total number of sales made in year 2021?
