@@ -40,7 +40,7 @@ The data was cleaned using the Power BI Power Query editor
 ---
 - Year 2021 total sales was $733.2K
 - The profit for 2021 was $93.4K
-- Average sales was 0.2k
+- Average sales was $0.2k
 - Number of orders made in year 2021 was 3,300
 - The western region in North America has the highest number of sales-$250.1K
 - Orders falling in the technology category account for a sales chunk of 37.06%
